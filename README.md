@@ -18,6 +18,7 @@ Hi there! I am software developer primarily focusing on Dart/Flutter and Python.
       <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=python&logoColor=%23FFFFFF&logoSize=auto&link=https%3A%2F%2Fwww.php.net%2F">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=%23FFFFFF&logoSize=auto&link=https%3A%2F%2Fwww.mysql.com%2F">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23000000&logoSize=auto">
+      <img alt="C Language" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=%23000000">
     </td>
   </tr>
 </table>
