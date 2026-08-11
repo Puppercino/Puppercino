@@ -1,4 +1,6 @@
-<h1><img src="macos9-cat-tiling.png"><img src="macos9-cat-tiling.png"><img src="macos9-cat-tiling.png"><br>meowci yeowci</h1>
+<h1>
+<img src="macos9-cat-tiling.png" width=64><img src="macos9-cat-tiling.png" width=64><img src="macos9-cat-tiling.png" width=64><img src="macos9-cat-tiling.png" width=64>
+  <br>meowci yeowci<br><img src="macos9-cat-tiling.png" width=64><img src="macos9-cat-tiling.png" width=64><img src="macos9-cat-tiling.png" width=64><img src="macos9-cat-tiling.png" width=64></h1>
 Hi there! Nowadays, I am pursuing my Master's degree in Information Technology, but I still stream PlayStation 2 on Twitch from time to time.
 
 ## Skills
